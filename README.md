@@ -1,1 +1,3 @@
-Term paper - Glaciology.pdf
+# README 
+
+Read the term paper pdf
